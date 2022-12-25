@@ -1,0 +1,15 @@
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\bin\Debug\net6.0\PrintNumArrayApp.exe
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\bin\Debug\net6.0\PrintNumArrayApp.deps.json
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\bin\Debug\net6.0\PrintNumArrayApp.runtimeconfig.json
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\bin\Debug\net6.0\PrintNumArrayApp.dll
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\bin\Debug\net6.0\PrintNumArrayApp.pdb
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\obj\Debug\net6.0\PrintNumArrayApp.csproj.AssemblyReference.cache
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\obj\Debug\net6.0\PrintNumArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\obj\Debug\net6.0\PrintNumArrayApp.AssemblyInfoInputs.cache
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\obj\Debug\net6.0\PrintNumArrayApp.AssemblyInfo.cs
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\obj\Debug\net6.0\PrintNumArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\obj\Debug\net6.0\PrintNumArrayApp.dll
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\obj\Debug\net6.0\refint\PrintNumArrayApp.dll
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\obj\Debug\net6.0\PrintNumArrayApp.pdb
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\obj\Debug\net6.0\PrintNumArrayApp.genruntimeconfig.cache
+C:\Users\Sheila\Documents\Repository\exercise-printnumarray\PrintNumArraySolution\PrintNumArrayApp\obj\Debug\net6.0\ref\PrintNumArrayApp.dll
